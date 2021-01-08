@@ -6,7 +6,9 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Forsports
     url: https://forsports.at
-
+  - name: Forsports-qs API
+    url: https://api-qs.forsports.at/api/version
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.forsports.at
