@@ -9,7 +9,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.forsports.at
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/forsports/upptime/master/static/img/forsports.png
