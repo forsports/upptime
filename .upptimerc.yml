@@ -12,7 +12,7 @@ status-website:
   cname: status.forsports.at
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/forsports/upptime/master/static/img/forsports.png
+  logoUrl: https://avatars1.githubusercontent.com/u/77165271?s=200&v=4
   name: Forsports
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introTitle: ""
