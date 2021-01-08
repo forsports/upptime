@@ -4,6 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Portainer
+    url: https://portainer.forsports.eu/#!/auth
+  - name: Drone Ci
+    url: https://ci.forsports.eu/
   - name: Forsports
     url: https://forsports.at
   - name: Forsports-qs API
