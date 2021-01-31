@@ -86,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/airline.qpm.co.at",
     "slug": "airline-complain-website",
     "status": "down",
-    "uptime": "15.51%",
-    "uptimeDay": "15.51%",
-    "uptimeWeek": "15.51%",
-    "uptimeMonth": "15.51%",
-    "uptimeYear": "15.51%",
+    "uptime": "9.59%",
+    "uptimeDay": "9.59%",
+    "uptimeWeek": "9.59%",
+    "uptimeMonth": "9.59%",
+    "uptimeYear": "9.59%",
     "time": 1165,
     "timeDay": 1165,
     "timeWeek": 1165,
     "timeMonth": 1165,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2021-01-31": 0
+      "2021-01-31": 1
     }
   },
   {
