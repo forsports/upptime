@@ -1,21 +1,64 @@
 [
   {
+    "name": "Portainer",
+    "url": "https://portainer.forsports.eu/#!/auth",
+    "icon": "https://favicons.githubusercontent.com/portainer.forsports.eu",
+    "slug": "portainer",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 635,
+    "timeDay": 617,
+    "timeWeek": 577,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2021-01-13": 52,
+      "2021-01-09": 3
+    }
+  },
+  {
+    "name": "Drone Ci",
+    "url": "https://ci.forsports.eu/",
+    "icon": "https://favicons.githubusercontent.com/ci.forsports.eu",
+    "slug": "drone-ci",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 534,
+    "timeDay": 494,
+    "timeWeek": 581,
+    "timeMonth": 534,
+    "timeYear": 534,
+    "dailyMinutesDown": {
+      "2021-01-13": 51
+    }
+  },
+  {
     "name": "Forsports",
     "url": "https://forsports.at",
     "icon": "https://favicons.githubusercontent.com/forsports.at",
     "slug": "forsports",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10186,
-    "timeDay": 10186,
-    "timeWeek": 10186,
-    "timeMonth": 10186,
-    "timeYear": 10186,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 5327,
+    "timeDay": 1132,
+    "timeWeek": 1060,
+    "timeMonth": 5327,
+    "timeYear": 5327,
+    "dailyMinutesDown": {
+      "2021-01-13": 49
+    }
   },
   {
     "name": "Forsports-qs API",
@@ -23,16 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/api-qs.forsports.at",
     "slug": "forsports-qs-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 694,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 593,
+    "timeDay": 555,
+    "timeWeek": 591,
+    "timeMonth": 593,
+    "timeYear": 593,
+    "dailyMinutesDown": {
+      "2021-01-13": 48
+    }
   }
 ]
