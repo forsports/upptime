@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 652,
-    "timeDay": 579,
-    "timeWeek": 784,
-    "timeMonth": 649,
+    "timeDay": 671,
+    "timeWeek": 788,
+    "timeMonth": 656,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2021-01-13": 52,
@@ -26,15 +26,15 @@
     "icon": "https://favicons.githubusercontent.com/ci.forsports.eu",
     "slug": "drone-ci",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 525,
-    "timeDay": 361,
-    "timeWeek": 530,
-    "timeMonth": 530,
+    "timeDay": 530,
+    "timeWeek": 532,
+    "timeMonth": 534,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2021-01-13": 51
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3417,
-    "timeDay": 1025,
-    "timeWeek": 1182,
-    "timeMonth": 1170,
-    "timeYear": 3417,
+    "time": 3382,
+    "timeDay": 1506,
+    "timeWeek": 1238,
+    "timeMonth": 1191,
+    "timeYear": 3382,
     "dailyMinutesDown": {
       "2021-01-13": 49
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 568,
-    "timeDay": 563,
-    "timeWeek": 571,
-    "timeMonth": 553,
-    "timeYear": 568,
+    "time": 570,
+    "timeDay": 682,
+    "timeWeek": 598,
+    "timeMonth": 561,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2021-01-13": 48
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 646,
-    "timeDay": 529,
-    "timeWeek": 544,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "time": 641,
+    "timeDay": 501,
+    "timeWeek": 536,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2021-01-31": 45
     }
@@ -106,16 +106,16 @@
     "icon": "https://favicons.githubusercontent.com/stg.qpm.co.at",
     "slug": "qpm",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2055,
-    "timeDay": 807,
-    "timeWeek": 999,
-    "timeMonth": 2055,
-    "timeYear": 2055,
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2024,
+    "timeDay": 1195,
+    "timeWeek": 967,
+    "timeMonth": 2024,
+    "timeYear": 2024,
     "dailyMinutesDown": {
       "2021-02-14": 9
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 480,
-    "timeWeek": 807,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 857,
+    "timeDay": 783,
+    "timeWeek": 804,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   },
   {
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 568,
-    "timeWeek": 706,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 754,
+    "timeDay": 836,
+    "timeWeek": 713,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {}
   }
 ]
