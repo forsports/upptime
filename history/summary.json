@@ -4,11 +4,11 @@
     "url": "https://portainer.forsports.eu/#!/auth",
     "icon": "https://favicons.githubusercontent.com/portainer.forsports.eu",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 736,
     "timeDay": 717,
@@ -16,6 +16,7 @@
     "timeMonth": 1196,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2021-07-21": 11,
       "2021-05-12": 29,
       "2021-01-13": 52,
       "2021-01-09": 3
@@ -26,11 +27,11 @@
     "url": "https://ci.forsports.eu/",
     "icon": "https://favicons.githubusercontent.com/ci.forsports.eu",
     "slug": "drone-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 534,
     "timeDay": 629,
@@ -38,6 +39,7 @@
     "timeMonth": 546,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2021-07-21": 9,
       "2021-05-12": 28,
       "2021-01-13": 51
     }
@@ -47,18 +49,19 @@
     "url": "https://forsports.at",
     "icon": "https://favicons.githubusercontent.com/forsports.at",
     "slug": "forsports",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 1974,
     "timeDay": 1867,
     "timeWeek": 1458,
     "timeMonth": 1794,
     "timeYear": 1974,
     "dailyMinutesDown": {
+      "2021-07-21": 8,
       "2021-02-25": 16,
       "2021-01-13": 49
     }
@@ -68,11 +71,11 @@
     "url": "https://api-qs.forsports.at/api/version",
     "icon": "https://favicons.githubusercontent.com/api-qs.forsports.at",
     "slug": "forsports-qs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 664,
     "timeDay": 629,
@@ -80,6 +83,7 @@
     "timeMonth": 600,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2021-07-21": 6,
       "2021-03-18": 26,
       "2021-01-13": 48
     }
@@ -89,11 +93,11 @@
     "url": "https://airline.qpm.co.at/",
     "icon": "https://favicons.githubusercontent.com/airline.qpm.co.at",
     "slug": "airline-complain-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 611,
     "timeDay": 842,
@@ -101,6 +105,7 @@
     "timeMonth": 610,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2021-07-21": 5,
       "2021-01-31": 45
     }
   },
@@ -109,11 +114,11 @@
     "url": "https://stg.qpm.co.at/web",
     "icon": "https://favicons.githubusercontent.com/stg.qpm.co.at",
     "slug": "qpm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1593,
     "timeDay": 1261,
@@ -121,6 +126,7 @@
     "timeMonth": 1175,
     "timeYear": 1593,
     "dailyMinutesDown": {
+      "2021-07-21": 3,
       "2021-05-15": 31,
       "2021-02-25": 16,
       "2021-02-14": 9
@@ -131,10 +137,10 @@
     "url": "https://thebridge-stg.qpm.co.at/",
     "icon": "https://favicons.githubusercontent.com/thebridge-stg.qpm.co.at",
     "slug": "the-bridges",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
@@ -142,16 +148,18 @@
     "timeWeek": 822,
     "timeMonth": 823,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   },
   {
     "name": "JLee",
     "url": "https://jlee-stg.qpm.co.at/",
     "icon": "https://favicons.githubusercontent.com/jlee-stg.qpm.co.at",
     "slug": "j-lee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -160,6 +168,8 @@
     "timeWeek": 988,
     "timeMonth": 954,
     "timeYear": 963,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   }
 ]
