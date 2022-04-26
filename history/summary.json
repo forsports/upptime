@@ -49,9 +49,9 @@
     "url": "https://forsports.at",
     "icon": "https://favicons.githubusercontent.com/forsports.at",
     "slug": "forsports",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -61,6 +61,7 @@
     "timeMonth": 1192,
     "timeYear": 1446,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2021-09-21": 19,
       "2021-07-22": 177,
       "2021-07-21": 91
