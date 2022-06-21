@@ -1,7 +1,7 @@
 url: https://api-qs.forsports.at/api/version
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-21T06:35:16.912Z
+status: up
+code: 200
+responseTime: 642
+lastUpdated: 2022-06-21T07:14:15.677Z
 startTime: Fri Jan 08 2021 17:39:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
