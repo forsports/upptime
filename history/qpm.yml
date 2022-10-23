@@ -1,7 +1,7 @@
 url: https://stg.qpm.co.at/web
-status: up
-code: 200
-responseTime: 870
-lastUpdated: 2022-10-22T23:08:48.261Z
+status: down
+code: 500
+responseTime: 631
+lastUpdated: 2022-10-23T02:52:04.428Z
 startTime: Sun Jan 31 2021 17:06:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
