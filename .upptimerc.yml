@@ -11,17 +11,17 @@ sites:
   - name: Forsports
     url: https://forsports.at
   - name: Forsports-qs API
-    url: https://api-qs.forsports.at/api/version
+    url: https://api.forsports.at/api/version
     expectedStatusCodes:
       - 200
   - name: Airline Complain Website
     url: https://airline.qpm.co.at/
   - name: QPM
-    url: https://stg.qpm.co.at/web
+    url: https://qpm.co.at
   - name: The Bridges
     url: https://thebridge-stg.qpm.co.at/
   - name: JLee
-    url: https://jlee-stg.qpm.co.at/
+    url: https://jleeconsult.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
