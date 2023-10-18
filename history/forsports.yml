@@ -1,7 +1,7 @@
 url: https://forsports.at
-status: up
-code: 200
-responseTime: 1384
-lastUpdated: 2023-10-17T23:06:03.355Z
+status: down
+code: 500
+responseTime: 3004
+lastUpdated: 2023-10-18T18:10:15.634Z
 startTime: 2021-01-08T17:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
