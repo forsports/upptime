@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 687,
-    "timeDay": 426,
-    "timeWeek": 550,
+    "time": 686,
+    "timeDay": 416,
+    "timeWeek": 511,
     "timeMonth": 535,
-    "timeYear": 666,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2023-12-03": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 665,
-    "timeDay": 427,
-    "timeWeek": 630,
-    "timeMonth": 586,
-    "timeYear": 656,
+    "time": 664,
+    "timeDay": 408,
+    "timeWeek": 586,
+    "timeMonth": 584,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2023-12-03": 31,
       "2023-10-10": 52
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1270,
-    "timeDay": 1040,
-    "timeWeek": 1265,
-    "timeMonth": 1335,
-    "timeYear": 1255,
+    "time": 1269,
+    "timeDay": 979,
+    "timeWeek": 1194,
+    "timeMonth": 1334,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-12-03": 31,
       "2023-11-06": 18,
@@ -70,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.forsports.at.ico",
     "slug": "forsports-qs-api",
     "status": "up",
-    "uptime": "91.77%",
+    "uptime": "91.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.58%",
     "time": 1155,
-    "timeDay": 1244,
-    "timeWeek": 1375,
-    "timeMonth": 1323,
-    "timeYear": 1415,
+    "timeDay": 931,
+    "timeWeek": 1299,
+    "timeMonth": 1314,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2023-12-03": 152,
       "2023-12-02": 1440,
@@ -189,10 +189,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 586,
-    "timeDay": 350,
-    "timeWeek": 500,
+    "timeDay": 383,
+    "timeWeek": 459,
     "timeMonth": 555,
-    "timeYear": 558,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2023-12-03": 31
     }
@@ -208,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 795,
-    "timeDay": 663,
-    "timeWeek": 1011,
-    "timeMonth": 922,
-    "timeYear": 778,
+    "time": 796,
+    "timeDay": 1257,
+    "timeWeek": 1041,
+    "timeMonth": 940,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2023-12-03": 31
     }
@@ -228,11 +228,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 781,
-    "timeDay": 532,
-    "timeWeek": 730,
-    "timeMonth": 700,
-    "timeYear": 730,
+    "time": 780,
+    "timeDay": 545,
+    "timeWeek": 690,
+    "timeMonth": 697,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2023-12-03": 31,
       "2023-10-10": 51
@@ -249,15 +249,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 827,
-    "timeDay": 691,
-    "timeWeek": 905,
-    "timeMonth": 895,
-    "timeYear": 796,
+    "time": 826,
+    "timeDay": 647,
+    "timeWeek": 831,
+    "timeMonth": 892,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2023-12-03": 31,
-      "2023-10-09": 16,
-      "2023-02-23": 95
+      "2023-10-09": 16
     }
   }
 ]
