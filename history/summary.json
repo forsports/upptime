@@ -76,7 +76,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.70%",
     "time": 1387,
     "timeDay": 2101,
     "timeWeek": 1574,
@@ -117,9 +117,9 @@
     "url": "https://qpm.co.at",
     "icon": "https://icons.duckduckgo.com/ip3/qpm.co.at.ico",
     "slug": "qpm",
-    "status": "up",
+    "status": "down",
     "uptime": "93.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -129,6 +129,7 @@
     "timeMonth": 1001,
     "timeYear": 889,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-08-15": 25,
       "2023-12-03": 31
     }
