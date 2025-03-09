@@ -1,7 +1,7 @@
 url: https://thebridge-stg.qpm.co.at/
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2025-03-08T23:08:07.405Z
+status: down
+code: 404
+responseTime: 503
+lastUpdated: 2025-03-09T02:10:12.996Z
 startTime: 2021-01-31T17:06:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
