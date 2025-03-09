@@ -1,7 +1,7 @@
 url: https://portainer.forsports.eu/#!/auth
-status: down
-code: 404
-responseTime: 581
-lastUpdated: 2025-03-09T14:30:21.918Z
+status: up
+code: 200
+responseTime: 457
+lastUpdated: 2025-03-09T14:41:39.693Z
 startTime: 2021-01-08T22:28:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
