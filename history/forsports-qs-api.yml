@@ -1,7 +1,7 @@
 url: https://api.forsports.at/api/version
-status: up
-code: 200
-responseTime: 2070
-lastUpdated: 2025-11-18T11:51:04.248Z
+status: down
+code: 500
+responseTime: 215
+lastUpdated: 2025-11-18T12:26:01.042Z
 startTime: 2021-01-08T17:39:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
