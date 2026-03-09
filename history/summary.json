@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.46%",
-    "time": 691,
-    "timeDay": 503,
-    "timeWeek": 792,
-    "timeMonth": 837,
+    "time": 690,
+    "timeDay": 497,
+    "timeWeek": 744,
+    "timeMonth": 822,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2026-02-19": 41,
@@ -21,8 +21,7 @@
       "2025-12-09": 26,
       "2025-11-19": 420,
       "2025-11-18": 729,
-      "2025-10-12": 67,
-      "2025-03-09": 687
+      "2025-10-12": 67
     }
   },
   {
@@ -37,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 810,
-    "timeDay": 653,
-    "timeWeek": 1194,
-    "timeMonth": 1115,
+    "timeDay": 670,
+    "timeWeek": 1161,
+    "timeMonth": 1094,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2026-01-28": 28,
@@ -47,8 +46,7 @@
       "2025-12-09": 26,
       "2025-11-19": 420,
       "2025-11-18": 694,
-      "2025-10-12": 67,
-      "2025-03-09": 687
+      "2025-10-12": 67
     }
   },
   {
@@ -61,12 +59,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.40%",
     "time": 1967,
-    "timeDay": 1226,
-    "timeWeek": 1532,
-    "timeMonth": 1470,
-    "timeYear": 1902,
+    "timeDay": 1004,
+    "timeWeek": 1439,
+    "timeMonth": 1463,
+    "timeYear": 1874,
     "dailyMinutesDown": {
       "2026-01-14": 56,
       "2026-01-08": 846,
@@ -82,8 +80,7 @@
       "2025-10-25": 16,
       "2025-10-12": 88,
       "2025-10-02": 41,
-      "2025-08-29": 29,
-      "2025-03-09": 756
+      "2025-08-29": 29
     }
   },
   {
@@ -96,19 +93,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.48%",
     "time": 1712,
-    "timeDay": 1603,
-    "timeWeek": 1659,
-    "timeMonth": 1696,
-    "timeYear": 1751,
+    "timeDay": 1503,
+    "timeWeek": 1639,
+    "timeMonth": 1695,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2026-01-08": 846,
       "2025-12-09": 27,
       "2025-11-19": 420,
       "2025-11-18": 694,
-      "2025-10-12": 67,
-      "2025-03-09": 757
+      "2025-10-12": 67
     }
   },
   {
@@ -117,18 +113,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/airline.qpm.co.at.ico",
     "slug": "airline-complain-website",
     "status": "down",
-    "uptime": "84.73%",
+    "uptime": "84.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "22.24%",
+    "uptimeYear": "21.97%",
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {
-      "2026-03-08": 58,
+      "2026-03-09": 58,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -426,19 +423,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 1445,
-    "timeDay": 1724,
-    "timeWeek": 1787,
-    "timeMonth": 1669,
-    "timeYear": 1559,
+    "time": 1446,
+    "timeDay": 1798,
+    "timeWeek": 1772,
+    "timeMonth": 1684,
+    "timeYear": 1561,
     "dailyMinutesDown": {
       "2026-01-08": 845,
       "2025-12-09": 27,
       "2025-11-19": 421,
       "2025-11-18": 694,
       "2025-10-12": 67,
-      "2025-05-28": 65,
-      "2025-03-09": 688
+      "2025-05-28": 65
     }
   },
   {
@@ -447,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thebridge-stg.qpm.co.at.ico",
     "slug": "the-bridges",
     "status": "down",
-    "uptime": "84.54%",
+    "uptime": "84.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "22.11%",
-    "time": 942,
+    "uptimeYear": "21.84%",
+    "time": 943,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1098,
+    "timeYear": 1103,
     "dailyMinutesDown": {
-      "2026-03-08": 58,
+      "2026-03-09": 58,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -742,8 +739,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1119,
-      "2025-03-09": 688
+      "2025-05-28": 1119
     }
   },
   {
@@ -752,18 +748,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jleeconsult.com.ico",
     "slug": "j-lee",
     "status": "down",
-    "uptime": "85.26%",
+    "uptime": "85.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "25.00%",
-    "time": 1190,
+    "uptimeYear": "24.74%",
+    "time": 1192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1411,
+    "timeYear": 1416,
     "dailyMinutesDown": {
-      "2026-03-08": 58,
+      "2026-03-09": 58,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -1037,8 +1034,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1327
+      "2025-03-10": 1440
     }
   }
 ]
